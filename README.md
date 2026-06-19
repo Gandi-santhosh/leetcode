@@ -6,6 +6,7 @@ pushing codes to github.
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gandi-santhosh/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -47,4 +48,8 @@ pushing codes to github.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
