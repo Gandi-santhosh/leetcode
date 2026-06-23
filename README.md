@@ -17,6 +17,7 @@ pushing codes to github.
 ## String
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gandi-santhosh/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gandi-santhosh/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -30,6 +31,7 @@ pushing codes to github.
 | ------- |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
@@ -44,6 +46,7 @@ pushing codes to github.
 | ------- |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +55,8 @@ pushing codes to github.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
