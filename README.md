@@ -10,6 +10,7 @@ pushing codes to github.
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gandi-santhosh/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gandi-santhosh/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Gandi-santhosh/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gandi-santhosh/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -41,6 +42,7 @@ pushing codes to github.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
@@ -59,4 +61,5 @@ pushing codes to github.
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
