@@ -8,6 +8,7 @@ pushing codes to github.
 | ------- |
 | [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gandi-santhosh/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -42,6 +43,7 @@ pushing codes to github.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
@@ -62,4 +64,12 @@ pushing codes to github.
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
