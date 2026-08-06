@@ -11,6 +11,7 @@ pushing codes to github.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Gandi-santhosh/leetcode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
@@ -115,4 +116,5 @@ pushing codes to github.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Gandi-santhosh/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
