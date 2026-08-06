@@ -6,6 +6,7 @@ pushing codes to github.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
@@ -108,4 +109,8 @@ pushing codes to github.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
