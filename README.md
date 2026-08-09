@@ -98,6 +98,7 @@ pushing codes to github.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/Gandi-santhosh/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gandi-santhosh/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gandi-santhosh/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -117,4 +118,8 @@ pushing codes to github.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Gandi-santhosh/leetcode/tree/master/0283-move-zeroes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Gandi-santhosh/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
