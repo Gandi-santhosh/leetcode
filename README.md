@@ -16,6 +16,7 @@ pushing codes to github.
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gandi-santhosh/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gandi-santhosh/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -101,6 +102,7 @@ pushing codes to github.
 | [0278-first-bad-version](https://github.com/Gandi-santhosh/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gandi-santhosh/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gandi-santhosh/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gandi-santhosh/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
