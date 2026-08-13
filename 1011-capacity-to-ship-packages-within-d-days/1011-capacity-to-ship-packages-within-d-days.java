@@ -8,7 +8,7 @@ class Solution {
             }
             if(temp+val>load){
                 
-                temp=weights[i];
+                temp=val;
                 days-=1;
             }
             else{
