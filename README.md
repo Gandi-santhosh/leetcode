@@ -17,6 +17,7 @@ pushing codes to github.
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gandi-santhosh/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gandi-santhosh/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gandi-santhosh/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gandi-santhosh/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -105,6 +106,7 @@ pushing codes to github.
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gandi-santhosh/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gandi-santhosh/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gandi-santhosh/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gandi-santhosh/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gandi-santhosh/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
