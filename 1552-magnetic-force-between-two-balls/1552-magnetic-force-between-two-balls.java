@@ -9,11 +9,8 @@ class Solution {
                   m-=1;
 
             }
-            if(m<=0){
-                return true;
-            }
         }
-        return false;
+        return m<=0;
 
     }
     public int maxDistance(int[] position, int m) {
