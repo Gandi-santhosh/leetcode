@@ -24,6 +24,7 @@ pushing codes to github.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gandi-santhosh/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Gandi-santhosh/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Gandi-santhosh/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gandi-santhosh/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gandi-santhosh/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Gandi-santhosh/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -114,6 +115,7 @@ pushing codes to github.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gandi-santhosh/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gandi-santhosh/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Gandi-santhosh/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Gandi-santhosh/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gandi-santhosh/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gandi-santhosh/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gandi-santhosh/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
