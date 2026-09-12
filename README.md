@@ -14,6 +14,7 @@ pushing codes to github.
 | [0283-move-zeroes](https://github.com/Gandi-santhosh/leetcode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Gandi-santhosh/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Gandi-santhosh/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gandi-santhosh/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gandi-santhosh/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ pushing codes to github.
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Gandi-santhosh/leetcode/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gandi-santhosh/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -138,4 +140,8 @@ pushing codes to github.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gandi-santhosh/leetcode/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Gandi-santhosh/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
