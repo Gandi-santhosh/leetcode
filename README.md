@@ -38,6 +38,7 @@ pushing codes to github.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/Gandi-santhosh/leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Gandi-santhosh/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gandi-santhosh/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -57,6 +58,7 @@ pushing codes to github.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Gandi-santhosh/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
