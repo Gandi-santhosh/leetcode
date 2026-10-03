@@ -43,6 +43,7 @@ pushing codes to github.
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gandi-santhosh/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gandi-santhosh/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3110-score-of-a-string](https://github.com/Gandi-santhosh/leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
