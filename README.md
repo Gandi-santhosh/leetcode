@@ -150,4 +150,8 @@ pushing codes to github.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Gandi-santhosh/leetcode/tree/master/0682-baseball-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
