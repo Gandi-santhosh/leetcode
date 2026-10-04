@@ -1,15 +1,15 @@
 class Solution {
     public int maximumDifference(int[] nums) {
-        int min=nums[0];
-        int temp=-1;
-        int n=nums.length;
-        for(int i=1;i<n;i++){
-            int val=nums[i];
-            if(min<val){
-                temp=Math.max(temp,val-min);
-            }
-            min=Math.min(min,val);
-        }
-        return temp;
+        int profit=0;int low=nums[0];
+       for(int i=0;i<nums.length;i++){
+        int temp=nums[i];
+        int finall=temp-low;
+          profit=Math.max(finall,profit);
+          low=Math.min(temp,low);
+       } 
+       if(profit<=0){
+        return -1;
+       }
+       return profit;
     }
 }
