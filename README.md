@@ -45,6 +45,7 @@ pushing codes to github.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gandi-santhosh/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gandi-santhosh/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gandi-santhosh/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Gandi-santhosh/leetcode/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/Gandi-santhosh/leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
@@ -62,6 +63,7 @@ pushing codes to github.
 | [0771-jewels-and-stones](https://github.com/Gandi-santhosh/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2325-decode-the-message](https://github.com/Gandi-santhosh/leetcode/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
