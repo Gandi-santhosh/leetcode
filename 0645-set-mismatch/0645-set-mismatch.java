@@ -1,23 +1,26 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        HashSet<Integer> san=new HashSet<>();
-        int duplicate=0;int t=0;
-        for(int i=0;i<nums.length;i++){
-            int temp=nums[i];
-            if(!san.contains(temp)){
-                san.add(temp);
-            }
-            else{
-                duplicate=temp;
-            }
+       int n=nums.length;
+       HashSet<Integer> san=new HashSet<>();
+       //HashSet<Integer> kus=new HashSet<>();
+       int duplicate=-1;
+       for(int i=0;i<n;i++){
+        if(!san.contains(nums[i])){
+            san.add(nums[i]);
         }
-        for(int i=1;i<=nums.length;i++){
+        else{
+            duplicate=nums[i];
+        }
+       }
+       int missing=-1;
+       for(int i=1;i<=n;i++){
+        //int temp=nums[i];
+        if(!san.contains(i)){
+            missing=i;
+        }
+       }
+       int[] kus={duplicate,missing};
+       return kus;
 
-            if(!san.contains(i)){
-                  t=i;
-            }
-        }
-        int[] ans={duplicate,t};
-        return ans;
     }
 }
