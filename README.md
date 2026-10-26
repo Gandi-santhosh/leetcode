@@ -12,6 +12,7 @@ pushing codes to github.
 | [0118-pascals-triangle](https://github.com/Gandi-santhosh/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gandi-santhosh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gandi-santhosh/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gandi-santhosh/leetcode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
@@ -59,6 +60,7 @@ pushing codes to github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gandi-santhosh/leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Gandi-santhosh/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Gandi-santhosh/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -73,6 +75,7 @@ pushing codes to github.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gandi-santhosh/leetcode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Gandi-santhosh/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Gandi-santhosh/leetcode/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Gandi-santhosh/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
