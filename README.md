@@ -6,6 +6,7 @@ pushing codes to github.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gandi-santhosh/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gandi-santhosh/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -58,6 +59,7 @@ pushing codes to github.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gandi-santhosh/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gandi-santhosh/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Gandi-santhosh/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gandi-santhosh/leetcode/tree/master/0217-contains-duplicate) |
